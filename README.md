@@ -1,2 +1,2 @@
 # HTCtest
-Test of HRC Vive pro
+Test of HTC Vive pro
